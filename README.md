@@ -1,4 +1,4 @@
-# amigosecreto
+<h1> Amigo Secreto </h1>
 
 El proyecto "Amigo Secreto" es una aplicación web simple que permite a un grupo de personas organizar un sorteo para asignar regalos de manera aleatoria. Cada persona recibe el nombre de otra a la que deberá hacerle un regalo.
 
